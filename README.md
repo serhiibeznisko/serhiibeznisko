@@ -1,11 +1,11 @@
 ### Hi there, I'm Serhii 👋
 
-- 👌 I’m currently working in [Code Addict](https://codeaddict.io)  
-- 📱 I’m actively learning Django & DevOps  
-- ✌️ I’m open to new connections with content creators  
-- 📫 How to reach me: [beznisko.ss@gmail.com](mailto:beznisko.ss@gmail.com)  
-- 🎯 2020 Goals: Start my own blog  
-- 🏸 Quick fact: I am Candidate Master of Sports in Badminton.
+- I’m currently working in [Code Addict](https://codeaddict.io)  
+- I’m actively learning Django & DevOps  
+- I’m open to new connections with content creators  
+- How to reach me: [beznisko.ss@gmail.com](mailto:beznisko.ss@gmail.com)  
+- 2020 Goals: Start my own blog  
+- Quick fact: I am Candidate Master of Sports in Badminton.
 
 <br />
 
